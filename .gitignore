@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+venv/
+env/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+.thumbs.db
+
+# ChromeDriver (webdriver-manager cache)
+.wdm/
+
+# Logs
+*.log
+
+# Others
+.pytest_cache/
+.coverage
+htmlcov/
